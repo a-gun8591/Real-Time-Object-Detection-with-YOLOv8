@@ -21,7 +21,7 @@ python detect.py --source input_video.mp4 --conf 0.5
 | Confidence Threshold | Observation |
 |---|---|
 | 0.25 | More detections, higher false-positive rate |
-| 0.5  | Balanced precision/recall |
+| 0.4| Balanced precision/recall |
 | 0.7  | Fewer false positives, may miss smaller/occluded objects |
 
 *(Fill in with your actual tested values/clips)*
