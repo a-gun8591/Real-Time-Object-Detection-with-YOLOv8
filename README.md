@@ -2,6 +2,9 @@
 
 Real-time object detection pipeline using a pre-trained YOLOv8 model with GPU-accelerated inference, tuned across multiple confidence thresholds for cleaner real-world detections.
 
+## About this project
+This project was built while working around limited local hardware (no dedicated GPU) — the development and testing workflow was optimized for that constraint, with full-speed inference validated separately via Google Colab's GPU runtime. It reflects a broader approach I bring to projects: work with what's available rather than wait for ideal conditions.
+
 ![demo](assets/demo.gif)
 
 ## Features
